@@ -1,8 +1,8 @@
 #include "ArduinoFake.h"
-#include <unity.h>
 #include <Alarm.h>
 #include <ButtonControl.h>
 #include <Service.h>
+#include <unity.h>
 
 using namespace fakeit;
 
